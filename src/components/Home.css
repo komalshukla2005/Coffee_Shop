@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides&family=Gowun+Batang:wght@400;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Sevillana&display=swap');
+
+
+body.home {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/023/010/437/non_2x/the-side-angle-view-of-a-cup-of-coffee-on-the-table-with-ai-generated-free-photo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    color: aliceblue;
+  }
+  
+.welcome_text{
+    padding: 2rem;
+    margin-top:10rem;
+    font-size:1.4rem;
+    color:gainsboro;
+}
+.welcome_text p span{
+    font-size: 9rem;
+    color: aliceblue;
+    font-family: "Sevillana", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
